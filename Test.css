@@ -1,0 +1,88 @@
+body{
+  background-image: url("pi.jpg");
+  margin: 0;
+  padding: 0;
+  background-size:cover;
+ 
+}
+table{
+  background-color:;
+}
+td{
+  width: 100px;
+  border: 1px solid red;
+  color:red;
+  border-radius:10px;
+}
+div{
+border:px solid red;
+border-radius: 30px;
+ 
+}
+input{
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+
+.my-img{
+  height: 100px;
+  width: 100px;
+  border-radius:0px;
+  background-image: url("im.jpg");
+  background-size: cover;
+  margin-top: 0px;
+}
+
+.form td img{
+  height:100px;
+  width: 100px;
+ background-size: cover;
+}
+
+
+.name{
+  width: 540px;
+  color:#0909cd;
+  border-radius: 0px;
+}
+p{
+  color:red;
+  width: 220px;
+  margin-left: 20px;
+  font-size: 18px;
+  height: 100;
+  font-family:Serif;
+}
+.h2{
+  height: 25px;
+}
+.py{
+  margin-left: 100px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-family:Serif;
+  color:#a9a9a9;
+  
+}
+.map img{
+  border: 1px solid ;
+  margin-bottom: 100px;
+  height: 260px;
+  width: 350px;
+  background-image: url("s.jpeg") cover;
+  border-radius:0px;
+  background-image: cover;
+}
+
+.inform{
+  border: 1px solid red;
+  margin-left: 30px;
+  margin-top: 0px;
+  border-radius: 30px;
+}
+.settings{
+  border:1px solid red;
+  border-spacing: 5px;
+  width:100px;
+}
